@@ -68,7 +68,7 @@ p {
 }
 
 .preparation {
-  margin-top: 35px;·
+  margin-top: 35px;
   padding: 30px;
   border-radius: 10px;
   background-color: var(--Rose-White);
@@ -109,7 +109,6 @@ li > span {
 }
 
 table {
-  margin-top: 30px;
   width: 100%;
   border-collapse: collapse;
 }
