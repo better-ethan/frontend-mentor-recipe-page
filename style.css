@@ -21,12 +21,12 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  padding: 50px;
+  padding: 120px;
   font-size: 16px;
 }
 
 .main {
-  max-width: 740px;
+  max-width: 60%;
   margin: 0 auto;
   padding: 42px;
   border-radius: 20px;
@@ -40,7 +40,7 @@ body {
 }
 
 .header-picture img {
-  max-width: 660px;
+  max-width: 100%;
   border-radius: 12px;
 }
 
@@ -76,13 +76,13 @@ p {
 
 ul,
 ol {
-  padding-left: 1rem;
-  list-style-position: inside;
+  padding-left: 1.5rem;
   margin-top: 30px;
 }
 
 li {
   margin-bottom: 20px;
+  padding-left: 20px;
 }
 
 li .preparation > ul {
@@ -100,7 +100,7 @@ li .preparation > ul {
   margin: 35px 0;
 }
 
-li > span > span {
+.highlight {
   font-weight: 700;
 }
 
